@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="channel_name">tic tac toe</string>
+    <string name="channel_description">Chanel for game TicTacToe</string>
+</resources>

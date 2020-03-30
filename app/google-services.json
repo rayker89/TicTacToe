@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067369755985",
+    "firebase_url": "https://tictactoe-eabcc.firebaseio.com",
+    "project_id": "tictactoe-eabcc",
+    "storage_bucket": "tictactoe-eabcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067369755985:android:5f0804b38d10b97a0c0f70",
+        "android_client_info": {
+          "package_name": "com.example.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067369755985-f2p463dsl38g5kk0s0ci2kalro6datei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdCb3cfTbe_bUWO-KyHs6_AY99vYsQao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067369755985-f2p463dsl38g5kk0s0ci2kalro6datei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
